@@ -1,0 +1,7 @@
+000100171011     A          R RSRCDET                   TEXT('SOURCE DETAILS')
+000200171011     A            RNAME         10A
+000300171011     A            RLIBSRC       10A
+000400171011     A            RLIB          10A
+000500171011     A            RUSR          10A
+000600171011     A            RDATE           L         DATFMT(*YMD)
+000700171011     A          K RNAME

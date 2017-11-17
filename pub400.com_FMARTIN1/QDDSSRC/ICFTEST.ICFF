@@ -1,0 +1,5 @@
+000100171013     A          R RSRCH
+000200171013     A                                      TEXT('SOURCE DESC. HEADER')
+000300171013     A            RNAME         10A
+000400171013     A            RDESC         50A
+000500171013     A            RTYPE         10A

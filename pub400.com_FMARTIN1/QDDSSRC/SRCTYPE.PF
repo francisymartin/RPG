@@ -1,0 +1,4 @@
+000100171011     A          R RSRCTYPE                  TEXT('SOURCE TYPE')
+000200171011     A            RTYPE         10A
+000300171011     A            RDSC          50A
+000400171011     A          K RTYPE
